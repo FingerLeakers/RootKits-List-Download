@@ -151,3 +151,28 @@ https://github.com/dluengo/yarr
 
 https://github.com/NotALaser/trk
 
+
+UPDATE MARCH 2018
+
+https://github.com/fdiskyou/www.rootkit.com
+
+https://github.com/Cr4sh/WindowsRegistryRootkit
+
+https://github.com/geekben/rootkit
+
+https://github.com/dgoulet/kjackal
+
+https://github.com/eVanilla/ruby-rootkit
+
+https://github.com/Jyang772/HideProcessHookMDL
+
+https://github.com/Paradoxis/PHP-Rootkit
+
+https://github.com/m0nad/Diamorphine
+
+https://github.com/xf0rk/brootkit
+
+https://github.com/islamTaha12/Python-Rootkit
+
+https://github.com/W4RH4WK/THOR
+
